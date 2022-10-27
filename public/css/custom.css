@@ -1,0 +1,24 @@
+/*
+ * Your custom CSS here...
+ */
+.btn-yt {
+	color: #fff;
+	background-color: #ff0000;
+}
+
+.icon-youtube:before {
+	content: "\E8DE"
+}
+
+.redme { color:#ff0000;}
+
+   .topspace{
+        margin-top: 150px;
+    }
+
+ .profile-featured-tag {
+  position: absolute;
+  top: 14px;
+  right: 20px;
+}
+
